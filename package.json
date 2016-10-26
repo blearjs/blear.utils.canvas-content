@@ -1,6 +1,6 @@
 {
   "name": "blear.utils.canvas-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "画布内容工具函数",
   "scripts": {
     "live": "browser-sync start --config bs-config.js"

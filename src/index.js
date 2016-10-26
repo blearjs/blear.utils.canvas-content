@@ -105,3 +105,6 @@ exports.saveAs = function (canvasEl, name, options) {
 
     event.emit(linkEl, 'click');
 };
+
+
+exports.supportToBlob = supportToBlob;
